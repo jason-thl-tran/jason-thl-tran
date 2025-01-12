@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-thl-tran&label=Profile%20views&color=0e75b6&style=flat" alt="jason-thl-tran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-thl-tran" alt="jason-thl-tran" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason-thl-tran&theme=radical" alt="jason-thl-tran" /></a> </p>
 
 - 🔭 I’m currently working on [Simplg-Wg](https://github.com/simple-wg/simple-wg)
 
