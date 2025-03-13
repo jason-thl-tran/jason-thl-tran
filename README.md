@@ -21,5 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason-thl-tran&show_icons=true&theme=radical&locale=en" alt="jason-thl-tran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason-thl-tran&theme=dark" alt="jason-thl-tran" /></p>
-
