@@ -9,13 +9,6 @@
 
 - 🌱 I’m currently learning **Langchain, Unity, C#, ARCore**
 
-- 👨‍💻 All of my projects are available at [https://jason-thl-tran.github.io/](https://jason-thl-tran.github.io/)
-
-- 💬 Ask me about **moving heavy circles**
-
-- 📫 How to reach me **https://www.linkedin.com/in/jason-tran-565880342/**
-
-- ⚡ Fun fact **my dog is deaf!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
